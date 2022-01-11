@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Personal Trainer Delhi
 
 You can use the [editor on GitHub](https://github.com/FCA-07/new-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
